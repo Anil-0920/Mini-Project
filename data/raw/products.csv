@@ -1,0 +1,61 @@
+product_id,product_name,category,price
+P001,Wireless Headphones,Electronics,79.99
+P002,Laptop Stand,Electronics,49.99
+P003,USB-C Cable,Electronics,19.99
+P004,Mechanical Keyboard,Electronics,129.99
+P005,Wireless Mouse,Electronics,29.99
+P006,Monitor 4K 27inch,Electronics,299.99
+P007,Desk Lamp LED,Electronics,39.99
+P008,Phone Case,Electronics,9.99
+P009,Screen Protector,Electronics,14.99
+P010,HDMI Cable,Electronics,12.99
+P011,Organic Cotton T-Shirt,Clothing,34.99
+P012,Denim Jeans,Clothing,79.99
+P013,Wool Sweater,Clothing,89.99
+P014,Casual Sneakers,Clothing,89.99
+P015,Running Shoes,Clothing,129.99
+P016,Leather Jacket,Clothing,199.99
+P017,Dress Shirt,Clothing,69.99
+P018,Cotton Socks (6 pack),Clothing,12.99
+P019,Baseball Cap,Clothing,24.99
+P020,Winter Coat,Clothing,249.99
+P021,Yoga Mat,Sports,49.99
+P022,Dumbbells Set 20lb,Sports,79.99
+P023,Resistance Bands,Sports,24.99
+P024,Foam Roller,Sports,34.99
+P025,Jump Rope,Sports,14.99
+P026,Exercise Ball,Sports,39.99
+P027,Yoga Blocks,Sports,19.99
+P028,Sports Water Bottle,Sports,24.99
+P029,Running Belt,Sports,29.99
+P030,Gym Bag,Sports,59.99
+P031,Skincare Face Moisturizer,Beauty,44.99
+P032,Anti-Wrinkle Serum,Beauty,69.99
+P033,Makeup Brush Set,Beauty,34.99
+P034,Lipstick Matte,Beauty,19.99
+P035,Foundation SPF 30,Beauty,54.99
+P036,Hair Shampoo,Beauty,12.99
+P037,Hair Conditioner,Beauty,12.99
+P038,Face Mask,Beauty,24.99
+P039,Perfume 100ml,Beauty,79.99
+P040,Body Lotion,Beauty,14.99
+P041,Fiction Novel 1,Books,16.99
+P042,Tech Handbook,Books,34.99
+P043,Self-Help Book,Books,19.99
+P044,Biography,Books,22.99
+P045,Science Fiction Novel,Books,18.99
+P046,Cookbook,Books,29.99
+P047,Children's Picture Book,Books,12.99
+P048,Graphic Novel,Books,24.99
+P049,History Book,Books,26.99
+P050,Business Strategy Book,Books,35.99
+P051,Coffee Maker,Home,89.99
+P052,Blender,Home,119.99
+P053,Microwave,Home,149.99
+P054,Toaster,Home,49.99
+P055,Coffee Grinder,Home,59.99
+P056,Vacuum Cleaner,Home,199.99
+P057,Air Purifier,Home,179.99
+P058,Humidifier,Home,79.99
+P059,Smart Thermostat,Home,199.99
+P060,LED Ceiling Light,Home,89.99

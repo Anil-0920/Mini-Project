@@ -1,0 +1,51 @@
+customer_id,customer_name,email,city,state,country,signup_date
+C001,John Smith,john.smith@email.com,New York,NY,USA,2022-01-15
+C002,Sarah Johnson,sarah.j@email.com,Los Angeles,CA,USA,2022-02-20
+C003,Michael Chen,mchen@email.com,Chicago,IL,USA,2022-03-10
+C004,Emily Davis,emily.d@email.com,Houston,TX,USA,2022-04-05
+C005,Robert Wilson,rwilson@email.com,Phoenix,AZ,USA,2022-05-12
+C006,Jessica Martinez,jmartinez@email.com,Philadelphia,PA,USA,2022-06-18
+C007,David Lee,dlee@email.com,San Antonio,TX,USA,2022-07-22
+C008,Amanda Brown,abrown@email.com,San Diego,CA,USA,2022-08-30
+C009,Christopher Taylor,ctaylor@email.com,Dallas,TX,USA,2022-09-14
+C010,Lisa Anderson,lander@email.com,San Jose,CA,USA,2022-10-25
+C011,James Thomas,jthomas@email.com,Austin,TX,USA,2022-11-08
+C012,Mary Jackson,mjackson@email.com,Jacksonville,FL,USA,2022-12-03
+C013,William White,wwhite@email.com,Fort Worth,TX,USA,2023-01-10
+C014,Patricia Harris,pharris@email.com,Columbus,OH,USA,2023-02-14
+C015,Richard Martin,rmartin@email.com,Charlotte,NC,USA,2023-03-22
+C016,Jennifer Thompson,jthompson@email.com,San Francisco,CA,USA,2023-04-05
+C017,Charles Garcia,cgarcia@email.com,Indianapolis,IN,USA,2023-05-12
+C018,Linda Rodriguez,lrodriguez@email.com,Austin,TX,USA,2023-06-18
+C019,Daniel Lewis,dlewis@email.com,Seattle,WA,USA,2023-07-25
+C020,Barbara Lee,blee@email.com,Denver,CO,USA,2023-08-30
+C021,Matthew Walker,mwalker@email.com,Washington,DC,USA,2023-09-15
+C022,Karen Hall,khall@email.com,Boston,MA,USA,2023-10-20
+C023,Mark Allen,mallen@email.com,Nashville,TN,USA,2023-11-05
+C024,Nancy Young,nyoung@email.com,Baltimore,MD,USA,2023-12-10
+C025,Donald King,dking@email.com,Louisville,KY,USA,2024-01-15
+C026,Ashley Wright,awright@email.com,Milwaukee,WI,USA,2024-02-20
+C027,Steven Lopez,slopez@email.com,Albuquerque,NM,USA,2024-03-10
+C028,Kimberly Hill,khill@email.com,Tucson,AZ,USA,2024-04-05
+C029,Paul Scott,pscott@email.com,Fresno,CA,USA,2024-05-12
+C030,Deborah Green,dgreen@email.com,Sacramento,CA,USA,2024-06-18
+C031,Mark Adams,madams@email.com,Kansas City,MO,USA,2024-07-22
+C032,Donna Nelson,dnelson@email.com,Mesa,AZ,USA,2024-08-30
+C033,Donald Carter,dcarter@email.com,Virginia Beach,VA,USA,2024-09-14
+C034,Carol Mitchell,cmitchell@email.com,Atlanta,GA,USA,2024-10-25
+C035,George Roberts,groberts@email.com,Long Beach,CA,USA,2024-11-08
+C036,Sandra Phillips,sphillips@email.com,Oakland,CA,USA,2024-12-03
+C037,Kenneth Campbell,kcampbell@email.com,Miami,FL,USA,2025-01-10
+C038,Melissa Parker,mparker@email.com,Cleveland,OH,USA,2025-02-14
+C039,Edward Evans,eevans@email.com,Tulsa,OK,USA,2025-03-22
+C040,Debra Edwards,dedwards@email.com,Arlington,TX,USA,2025-04-05
+C041,Brian Collins,bcollins@email.com,New Orleans,LA,USA,2025-05-12
+C042,Stephanie Reeves,sreeves@email.com,Bakersfield,CA,USA,2025-06-18
+C043,Ronald Morris,rmorris@email.com,Tampa,FL,USA,2025-07-25
+C044,Rebecca Rogers,rrogers@email.com,Anaheim,CA,USA,2025-08-30
+C045,Paul Reed,preed@email.com,Aurora,CO,USA,2025-09-15
+C046,Laura Cook,lcook@email.com,Santa Ana,CA,USA,2025-10-20
+C047,Larry Morgan,lmorgan@email.com,St. Louis,MO,USA,2025-11-05
+C048,Cynthia Bell,cbell@email.com,Riverside,CA,USA,2025-12-10
+C049,Jerry Murphy,jmurphy@email.com,Corpus Christi,TX,USA,2024-01-15
+C050,Gloria Bailey,gbailey@email.com,Lexington,KY,USA,2024-02-20

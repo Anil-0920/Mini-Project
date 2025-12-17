@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,product_id,quantity,order_status,payment_mode
+O001,2023-01-15,C001,P001,1,Completed,Credit Card
+O002,2023-01-15,C002,P011,2,Completed,Debit Card
+O003,2023-01-16,C003,P051,1,Completed,Credit Card
+O004,2023-01-17,C004,P021,1,Cancelled,PayPal
+O005,2023-01-18,C005,P031,2,Completed,Credit Card
+O006,2023-01-18,C006,P015,1,Completed,Debit Card
+O007,2023-01-19,C007,P041,3,Completed,Credit Card
+O008,2023-01-20,C008,P002,1,Returned,Credit Card
+O009,2023-01-20,C009,P052,1,Completed,PayPal
+O010,2023-01-21,C010,P011,1,Completed,Credit Card
+O011,2023-01-22,C011,P031,1,Completed,Debit Card
+O012,2023-01-22,C012,P021,2,Cancelled,Credit Card
+O013,2023-01-23,C013,P012,1,Completed,Credit Card
+O014,2023-01-24,C014,P060,1,Completed,PayPal
+O015,2023-01-25,C015,P001,2,Completed,Credit Card
+O016,2023-01-26,C016,P039,1,Completed,Debit Card
+O017,2023-01-27,C017,P022,1,Completed,Credit Card
+O018,2023-01-28,C018,P013,1,Returned,PayPal
+O019,2023-01-29,C019,P053,1,Completed,Credit Card
+O020,2023-01-30,C020,P031,2,Completed,Credit Card
+O021,2023-02-01,C021,P015,1,Completed,Debit Card
+O022,2023-02-02,C022,P041,1,Cancelled,Credit Card
+O023,2023-02-03,C023,P021,1,Completed,PayPal
+O024,2023-02-04,C024,P005,2,Completed,Credit Card
+O025,2023-02-05,C025,P012,1,Completed,Debit Card
+O026,2023-02-06,C026,P031,1,Completed,Credit Card
+O027,2023-02-07,C027,P051,1,Returned,PayPal
+O028,2023-02-08,C028,P022,2,Completed,Credit Card
+O029,2023-02-09,C029,P039,1,Completed,Credit Card
+O030,2023-02-10,C030,P013,1,Completed,Debit Card
+O031,2023-02-11,C031,P021,1,Completed,Credit Card
+O032,2023-02-12,C032,P001,2,Cancelled,PayPal
+O033,2023-02-13,C033,P041,1,Completed,Credit Card
+O034,2023-02-14,C034,P052,1,Completed,Credit Card
+O035,2023-02-15,C035,P031,2,Completed,Debit Card
+O036,2023-02-16,C036,P015,1,Completed,Credit Card
+O037,2023-02-17,C037,P060,1,Returned,PayPal
+O038,2023-02-18,C038,P012,1,Completed,Credit Card
+O039,2023-02-19,C039,P021,1,Completed,Credit Card
+O040,2023-02-20,C040,P005,2,Completed,Debit Card
+O041,2023-02-21,C041,P039,1,Completed,Credit Card
+O042,2023-02-22,C042,P051,1,Completed,PayPal
+O043,2023-02-23,C043,P031,2,Cancelled,Credit Card
+O044,2023-02-24,C044,P013,1,Completed,Credit Card
+O045,2023-02-25,C045,P022,1,Completed,Credit Card
+O046,2023-02-26,C046,P041,1,Returned,Debit Card
+O047,2023-02-27,C047,P001,2,Completed,PayPal
+O048,2023-02-28,C048,P015,1,Completed,Credit Card
+O049,2023-03-01,C049,P021,1,Completed,Credit Card
+O050,2023-03-02,C050,P031,1,Completed,Credit Card
+O051,2023-03-03,C001,P052,1,Completed,Credit Card
+O052,2023-03-04,C002,P041,2,Cancelled,Debit Card
+O053,2023-03-05,C003,P012,1,Completed,Credit Card
+O054,2023-03-06,C004,P060,1,Completed,PayPal
+O055,2023-03-07,C005,P021,1,Completed,Credit Card
+O056,2023-03-08,C006,P039,2,Completed,Credit Card
+O057,2023-03-09,C007,P001,1,Returned,Debit Card
+O058,2023-03-10,C008,P005,1,Completed,PayPal
+O059,2023-03-11,C009,P031,1,Completed,Credit Card
+O060,2023-03-12,C010,P051,1,Completed,Credit Card
+O061,2023-03-13,C011,P022,2,Completed,Debit Card
+O062,2023-03-14,C012,P013,1,Cancelled,Credit Card
+O063,2023-03-15,C013,P015,1,Completed,Credit Card
+O064,2023-03-16,C014,P041,1,Completed,PayPal
+O065,2023-03-17,C015,P021,2,Completed,Credit Card
+O066,2023-03-18,C016,P031,1,Completed,Credit Card
+O067,2023-03-19,C017,P052,1,Returned,Debit Card
+O068,2023-03-20,C018,P012,1,Completed,Credit Card
+O069,2023-03-21,C019,P039,1,Completed,PayPal
+O070,2023-03-22,C020,P001,2,Completed,Credit Card
+O071,2023-03-23,C021,P060,1,Cancelled,Credit Card
+O072,2023-03-24,C022,P021,1,Completed,Debit Card
+O073,2023-03-25,C023,P005,1,Completed,Credit Card
+O074,2023-03-26,C024,P031,1,Completed,PayPal
+O075,2023-03-27,C025,P051,1,Completed,Credit Card
+O076,2023-03-28,C026,P022,2,Returned,Credit Card
+O077,2023-03-29,C027,P013,1,Completed,Debit Card
+O078,2023-03-30,C028,P041,1,Completed,Credit Card
+O079,2023-03-31,C029,P015,1,Completed,PayPal
+O080,2023-04-01,C030,P012,1,Completed,Credit Card
+O081,2023-04-02,C031,P021,1,Cancelled,Credit Card
+O082,2023-04-03,C032,P031,2,Completed,Debit Card
+O083,2023-04-04,C033,P039,1,Completed,Credit Card
+O084,2023-04-05,C034,P052,1,Completed,PayPal
+O085,2023-04-06,C035,P001,1,Returned,Credit Card
+O086,2023-04-07,C036,P060,1,Completed,Credit Card
+O087,2023-04-08,C037,P021,2,Completed,Debit Card
+O088,2023-04-09,C038,P005,1,Completed,Credit Card
+O089,2023-04-10,C039,P051,1,Completed,PayPal
+O090,2023-04-11,C040,P022,1,Cancelled,Credit Card
+O091,2023-04-12,C041,P013,1,Completed,Credit Card
+O092,2023-04-13,C042,P041,2,Completed,Debit Card
+O093,2023-04-14,C043,P015,1,Completed,Credit Card
+O094,2023-04-15,C044,P012,1,Completed,PayPal
+O095,2023-04-16,C045,P031,1,Returned,Credit Card
+O096,2023-04-17,C046,P039,1,Completed,Credit Card
+O097,2023-04-18,C047,P001,2,Completed,Debit Card
+O098,2023-04-19,C048,P060,1,Completed,Credit Card
+O099,2023-04-20,C049,P021,1,Completed,PayPal
+O100,2023-04-21,C050,P031,1,Cancelled,Credit Card
